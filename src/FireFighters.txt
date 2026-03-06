@@ -1,0 +1,31 @@
+Name	ID	Age	Experience	Rank
+Sophia	4817	34	18.0	
+Jackson	6974	34	3.7	2
+James	2185	27	9.6	
+Scarlett	9266	36	11.7	3
+Benjamin	3626	43	2.2	
+Evelyn	3986	43	11.8	
+Mia	9724	52	26.7	4
+Ava	1072	42	26.3	
+Amelia	6580	33	3.5	6
+Sophia	7936	50	17.0	
+Ella	3942	36	2.8	2
+Logan	5367	48	21.8	
+Elijah	1921	34	25.3	2
+Grace	3915	45	7.0	
+Scarlett	2508	42	8.0	
+Evelyn	2395	51	12.0	
+Lily	2433	35	9.3	
+Harper	7319	41	14.5	
+Olivia	4936	43	2.0	
+Emma	9280	47	11.6	
+Mila	8278	53	22.5	5
+Avery	9449	34	18.8	6
+Charlotte	1823	43	6.6	2
+John	2326	45	5.5	
+Ava	2834	45	25.9	
+Jackson	3226	45	28.4	
+Lily	4079	27	18.2	
+Emily	7072	41	7.7	
+Emily	2856	47	25.0	
+Scarlett	4974	55	12.5	
